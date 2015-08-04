@@ -1,0 +1,150 @@
+DD,TK ,2606 ,DİYARBAKIR          ,                    ,1915,2015,101,KALKTI-DEPARTED     ,04.08.2015
+DD,TK ,2660 ,SİVAS               ,                    ,1930,2015,106,KALKTI-DEPARTED     ,04.08.2015
+DD,TK ,2470 ,ADANA               ,                    ,1940,2005,107,KALKTI-DEPARTED     ,04.08.2015
+DD,TP ,8800 ,ADANA               ,                    ,1940,2005,107,KALKTI-DEPARTED     ,04.08.2015
+DD,PC ,2817 ,İZMİR               ,                    ,2000,2020,102,KALKTI-DEPARTED     ,04.08.2015
+DD,TK ,2338 ,İZMİR               ,                    ,2000,2015,103,KALKTI-DEPARTED     ,04.08.2015
+DD,TP ,8804 ,İZMİR               ,                    ,2000,2015,103,KALKTI-DEPARTED     ,04.08.2015
+DD,TK ,2636 ,MALATYA             ,                    ,2005,2045,105,KALKTI-DEPARTED     ,04.08.2015
+DD,TP ,8814 ,ANTALYA             ,                    ,2015,2045,404,KALKTI-DEPARTED     ,04.08.2015
+DD,TK ,2830 ,TRABZON             ,                    ,2015,2015,403,KALKTI-DEPARTED     ,04.08.2015
+DD,TK ,2434 ,ANTALYA             ,                    ,2015,2045,404,KALKTI-DEPARTED     ,04.08.2015
+DD,TK ,2644 ,ELAZIĞ              ,                    ,2015,2030,109,KALKTI-DEPARTED     ,04.08.2015
+DD,8Q ,158  ,İZMİR               ,                    ,2040,2040,401,KALKTI-DEPARTED     ,04.08.2015
+DD,TK ,2596 ,ALANYA GAZİPASA     ,                    ,2050,2115,101,KALKTI-DEPARTED     ,04.08.2015
+DD,TK ,2018 ,KAYSERİ             ,                    ,2050,2050,407,KALKTI-DEPARTED     ,04.08.2015
+DD,OZ ,6945 ,KAYSERİ             ,                    ,2050,2050,407,KALKTI-DEPARTED     ,04.08.2015
+DD,SK ,3460 ,BODRUM              ,                    ,2055,2055,108,KALKTI-DEPARTED     ,04.08.2015
+DD,TK ,2524 ,BODRUM              ,                    ,2055,2055,108,KALKTI-DEPARTED     ,04.08.2015
+DD,TK ,2340 ,İZMİR               ,                    ,2100,2100,112,KALKTI-DEPARTED     ,04.08.2015
+DD,SK ,3448 ,İZMİR               ,                    ,2100,2100,112,KALKTI-DEPARTED     ,04.08.2015
+DD,TK ,2814 ,SAMSUN              ,                    ,2100,2100,405,KALKTI-DEPARTED     ,04.08.2015
+DD,TK ,2570 ,DALAMAN             ,                    ,2110,2130,102,KAPI KAPANDI-GATE CLOSED,04.08.2015
+DD,8Q ,228  ,ANTALYA             ,                    ,2110,2110,403,KALKTI-DEPARTED     ,04.08.2015
+DD,8Q ,176  ,SAMSUN              ,                    ,2115,2130,110,KAPI KAPANDI-GATE CLOSED,04.08.2015
+DD,8Q ,020  ,KAYSERİ             ,                    ,2120,2120,402,KAPI KAPANDI-GATE CLOSED,04.08.2015
+DD,8Q ,018  ,ADANA               ,                    ,2120,0120,406,GECİKMELİ-DELAYED   ,04.08.2015
+DD,TK ,2038 ,KONYA               ,                    ,2125,2125,106,KAPI KAPANDI-GATE CLOSED,04.08.2015
+DD,TK ,2228 ,GAZİANTEP           ,                    ,2125,2240,110,GECİKMELİ-DELAYED   ,04.08.2015
+DD,KK ,028  ,İZMİR               ,                    ,2130,2145,408,KAPI KAPANDI-GATE CLOSED,04.08.2015
+DD,TK ,2610 ,DİYARBAKIR          ,                    ,2130,2130,405,KAPI KAPANDI-GATE CLOSED,04.08.2015
+DD,TK ,2182 ,ANKARA              ,                    ,2130,2130,104,KALKTI-DEPARTED     ,04.08.2015
+DD,NZ ,4890 ,ANKARA              ,                    ,2130,2130,104,KALKTI-DEPARTED     ,04.08.2015
+DD,8Q ,036  ,DİYARBAKIR          ,                    ,2140,2140,401,KAPI KAPANDI-GATE CLOSED,04.08.2015
+DD,8Q ,090  ,TRABZON             ,                    ,2140,2140,404,KAPI KAPANDI-GATE CLOSED,04.08.2015
+DD,SQ ,6224 ,DALAMAN             ,                    ,2150,2200,109,KAPI KAPANDI-GATE CLOSED,04.08.2015
+DD,TK ,2560 ,DALAMAN             ,                    ,2150,2200,109,KAPI KAPANDI-GATE CLOSED,04.08.2015
+DD,SK ,3462 ,DALAMAN             ,                    ,2150,2200,109,KAPI KAPANDI-GATE CLOSED,04.08.2015
+DD,AI ,6083 ,DALAMAN             ,                    ,2150,2200,109,KAPI KAPANDI-GATE CLOSED,04.08.2015
+DD,TK ,2526 ,BODRUM              ,                    ,2155,2155,107,SON ÇAĞRI-LAST CALL ,04.08.2015
+DD,TK ,2424 ,ANTALYA             ,                    ,2155,2155,103,KAPI KAPANDI-GATE CLOSED,04.08.2015
+DD,SK ,3484 ,ANTALYA             ,                    ,2155,2155,103,KAPI KAPANDI-GATE CLOSED,04.08.2015
+DD,SK ,3444 ,İZMİR               ,                    ,2200,2200,407,KAPI KAPANDI-GATE CLOSED,04.08.2015
+DD,TK ,2344 ,İZMİR               ,                    ,2200,2200,407,KAPI KAPANDI-GATE CLOSED,04.08.2015
+DD,TK ,2184 ,ANKARA              ,                    ,2200,2225,405,UÇAĞA GİDİNİZ-BOARDING,04.08.2015
+DD,TK ,2474 ,ADANA               ,                    ,2205,2205,111,KAPI KAPANDI-GATE CLOSED,04.08.2015
+DD,KK ,096  ,GAZİANTEP           ,                    ,2220,2220,406,KAPIYA GİDİNİZ-GO TO GATE,04.08.2015
+DD,8Q ,140  ,ELAZIĞ              ,                    ,2220,0005,104,GECİKMELİ-DELAYED   ,04.08.2015
+DD,KK ,038  ,ADANA               ,                    ,2230,2230,408,UÇAĞA GİDİNİZ-BOARDING,04.08.2015
+DD,8Q ,042  ,GAZİANTEP           ,                    ,2230,2230,106,KAPIYA GİDİNİZ-GO TO GATE,04.08.2015
+DD,TK ,2836 ,TRABZON             ,                    ,2240,2335,106,KAPIYA GİDİNİZ-GO TO GATE,04.08.2015
+DD,SK ,3456 ,ANTALYA             ,                    ,2255,2255,403,                    ,04.08.2015
+DD,TK ,2426 ,ANTALYA             ,                    ,2255,2255,403,                    ,04.08.2015
+DD,TK ,2054 ,ZAFER BÖLGESEL      ,                    ,2255,2255,105,                    ,04.08.2015
+DD,TK ,2186 ,ANKARA              ,                    ,2300,2300,108,                    ,04.08.2015
+DD,TK ,2854 ,AMASYA              ,                    ,2320,2320,109,                    ,04.08.2015
+DD,8Q ,230  ,ANTALYA             ,                    ,2330,0020,104,GECİKMELİ-DELAYED   ,04.08.2015
+DD,TK ,2042 ,KONYA               ,                    ,2330,2330,112,                    ,04.08.2015
+DD,TK ,2530 ,BODRUM              ,                    ,2340,2340,103,                    ,04.08.2015
+DD,TK ,2190 ,ANKARA              ,                    ,2350,2350,101,                    ,04.08.2015
+DD,NZ ,4886 ,ANKARA              ,                    ,2350,2350,101,                    ,04.08.2015
+DD,SK ,3474 ,ANKARA              ,                    ,2350,2350,101,                    ,04.08.2015
+DD,TK ,2256 ,HATAY               ,                    ,2355,2355,107,                    ,04.08.2015
+DD,TK ,2572 ,DALAMAN             ,                    ,0005,0005,   ,                    ,05.08.2015
+DD,PC ,2819 ,İZMİR               ,                    ,0010,0010,   ,                    ,05.08.2015
+DD,TK ,2838 ,TRABZON             ,                    ,0015,0015,   ,                    ,05.08.2015
+DD,TK ,2580 ,DENİZLİ             ,                    ,0020,0020,   ,                    ,05.08.2015
+DD,TP ,8808 ,KAYSERİ             ,                    ,0020,0020,   ,                    ,05.08.2015
+DD,TK ,2022 ,KAYSERİ             ,                    ,0020,0020,   ,                    ,05.08.2015
+DD,TK ,2612 ,DİYARBAKIR          ,                    ,0045,0045,   ,                    ,05.08.2015
+DD,TK ,2538 ,BODRUM              ,                    ,0110,0110,   ,                    ,05.08.2015
+DD,TK ,2476 ,ADANA               ,                    ,0115,0115,   ,                    ,05.08.2015
+DD,SK ,3446 ,İZMİR               ,                    ,0130,0130,   ,                    ,05.08.2015
+DD,TK ,2354 ,İZMİR               ,                    ,0130,0130,   ,                    ,05.08.2015
+DD,TK ,3791 ,VAN                 ,                    ,0130,0130,   ,                    ,05.08.2015
+DD,TK ,3780 ,VAN                 ,                    ,0130,0130,   ,                    ,05.08.2015
+DD,TK ,2818 ,SAMSUN              ,                    ,0130,0130,   ,                    ,05.08.2015
+DD,TK ,2428 ,ANTALYA             ,                    ,0130,0130,   ,                    ,05.08.2015
+DD,SK ,3458 ,ANTALYA             ,                    ,0130,0130,   ,                    ,05.08.2015
+DD,TK ,2236 ,GAZİANTEP           ,                    ,0130,0130,   ,                    ,05.08.2015
+DD,NZ ,4892 ,ANKARA              ,                    ,0135,0135,   ,                    ,05.08.2015
+DD,TK ,2192 ,ANKARA              ,                    ,0135,0135,   ,                    ,05.08.2015
+DD,TK ,2436 ,ANTALYA             ,                    ,0400,0400,   ,                    ,05.08.2015
+DD,TK ,2220 ,GAZİANTEP           ,                    ,0500,0500,   ,                    ,05.08.2015
+DD,8Q ,150  ,İZMİR               ,                    ,0550,0550,   ,                    ,05.08.2015
+DD,TK ,2806 ,SAMSUN              ,                    ,0550,0550,   ,                    ,05.08.2015
+DD,TK ,5958 ,ANKARA              ,                    ,0600,0600,   ,                    ,05.08.2015
+DD,TK ,2576 ,DENİZLİ             ,                    ,0600,0600,   ,                    ,05.08.2015
+DD,NZ ,4884 ,ANKARA              ,                    ,0610,0610,   ,                    ,05.08.2015
+DD,SK ,3466 ,ANKARA              ,                    ,0610,0610,   ,                    ,05.08.2015
+DD,TK ,2116 ,ANKARA              ,                    ,0610,0610,   ,                    ,05.08.2015
+DD,TK ,2454 ,ADANA               ,                    ,0610,0610,   ,                    ,05.08.2015
+DD,TK ,2504 ,BODRUM              ,                    ,0615,0615,   ,                    ,05.08.2015
+DD,TK ,2032 ,KONYA               ,                    ,0615,0615,   ,                    ,05.08.2015
+DD,TK ,2826 ,TRABZON             ,                    ,0615,0615,   ,                    ,05.08.2015
+DD,TK ,2630 ,MALATYA             ,                    ,0615,0615,   ,                    ,05.08.2015
+DD,TK ,2200 ,KAHRAMANMARAŞ       ,                    ,0615,0615,   ,                    ,05.08.2015
+DD,TK ,2552 ,DALAMAN             ,                    ,0620,0620,   ,                    ,05.08.2015
+DD,8Q ,220  ,ANTALYA             ,                    ,0625,0625,   ,                    ,05.08.2015
+DD,SK ,3450 ,ANTALYA             ,                    ,0625,0625,   ,                    ,05.08.2015
+DD,TK ,2408 ,ANTALYA             ,                    ,0625,0625,   ,                    ,05.08.2015
+DD,TK ,2246 ,ŞANLIURFA           ,                    ,0630,0630,   ,                    ,05.08.2015
+DD,KK ,090  ,GAZİANTEP           ,                    ,0635,0635,   ,                    ,05.08.2015
+DD,TK ,2746 ,VAN                 ,                    ,0640,0640,   ,                    ,05.08.2015
+DD,TK ,2010 ,KAYSERİ             ,                    ,0655,0655,   ,                    ,05.08.2015
+DD,TK ,2674 ,MARDİN              ,                    ,0655,0655,   ,                    ,05.08.2015
+DD,KK ,030  ,ADANA               ,                    ,0700,0700,   ,                    ,05.08.2015
+DD,TK ,2122 ,ANKARA              ,                    ,0700,0700,   ,                    ,05.08.2015
+DD,KK ,040  ,BODRUM              ,                    ,0700,0700,   ,                    ,05.08.2015
+DD,TK ,2310 ,İZMİR               ,                    ,0700,0700,   ,                    ,05.08.2015
+DD,NZ ,4888 ,ANKARA              ,                    ,0700,0700,   ,                    ,05.08.2015
+DD,SK ,3475 ,ANKARA              ,                    ,0700,0700,   ,                    ,05.08.2015
+DD,KK ,010  ,ANTALYA             ,                    ,0700,0700,   ,                    ,05.08.2015
+DD,SK ,3442 ,İZMİR               ,                    ,0700,0700,   ,                    ,05.08.2015
+DD,TK ,2006 ,NEVŞEHİR            ,                    ,0705,0705,   ,                    ,05.08.2015
+DD,TK ,2642 ,ELAZIĞ              ,                    ,0710,0710,   ,                    ,05.08.2015
+DD,TK ,2602 ,DİYARBAKIR          ,                    ,0715,0715,   ,                    ,05.08.2015
+DD,TK ,2704 ,ERZURUM             ,                    ,0715,0715,   ,                    ,05.08.2015
+DD,KK ,020  ,İZMİR               ,                    ,0735,0735,   ,                    ,05.08.2015
+DD,KK ,008  ,ANTALYA             ,                    ,0800,0800,   ,                    ,05.08.2015
+DD,TK ,2108 ,ANKARA              ,                    ,0800,0800,   ,                    ,05.08.2015
+DD,TK ,2312 ,İZMİR               ,                    ,0800,0800,   ,                    ,05.08.2015
+DD,TK ,2224 ,GAZİANTEP           ,                    ,0830,0830,   ,                    ,05.08.2015
+DD,SK ,3482 ,ANTALYA             ,                    ,0855,0855,   ,                    ,05.08.2015
+DD,SQ ,6210 ,ANTALYA             ,                    ,0855,0855,   ,                    ,05.08.2015
+DD,TK ,2410 ,ANTALYA             ,                    ,0855,0855,   ,                    ,05.08.2015
+DD,8Q ,126  ,BODRUM              ,                    ,0900,0900,   ,                    ,05.08.2015
+DD,SQ ,6238 ,ANKARA              ,                    ,0900,0900,   ,                    ,05.08.2015
+DD,TK ,2134 ,ANKARA              ,                    ,0900,0900,   ,                    ,05.08.2015
+DD,PC ,2811 ,İZMİR               ,                    ,0900,0900,   ,                    ,05.08.2015
+DD,SQ ,6216 ,İZMİR               ,                    ,0900,0900,   ,                    ,05.08.2015
+DD,TK ,2658 ,SİVAS               ,                    ,0900,0900,   ,                    ,05.08.2015
+DD,TK ,2316 ,İZMİR               ,                    ,0900,0900,   ,                    ,05.08.2015
+DD,TK ,2670 ,HAKKARI             ,                    ,0905,0905,   ,                    ,05.08.2015
+DD,TK ,2458 ,ADANA               ,                    ,0910,0910,   ,                    ,05.08.2015
+DD,SQ ,6258 ,ADANA               ,                    ,0910,0910,   ,                    ,05.08.2015
+DD,TK ,2604 ,DİYARBAKIR          ,                    ,0920,0920,   ,                    ,05.08.2015
+DD,TK ,2508 ,BODRUM              ,                    ,0920,0920,   ,                    ,05.08.2015
+DD,TK ,2648 ,BİNGÖL              ,                    ,0925,0925,   ,                    ,05.08.2015
+DD,TK ,2554 ,DALAMAN             ,                    ,0925,0925,   ,                    ,05.08.2015
+DD,TK ,2842 ,SINOP               ,                    ,0925,0925,   ,                    ,05.08.2015
+DD,8Q ,080  ,TRABZON             ,                    ,0930,0930,   ,                    ,05.08.2015
+DD,TK ,2592 ,ALANYA GAZİPASA     ,                    ,0935,0935,   ,                    ,05.08.2015
+DD,8Q ,012  ,ADANA               ,                    ,0935,0935,   ,                    ,05.08.2015
+DD,TK ,2252 ,HATAY               ,                    ,0940,0940,   ,                    ,05.08.2015
+DD,TK ,2026 ,KAYSERİ             ,                    ,0950,0950,   ,                    ,05.08.2015
+DD,SQ ,6226 ,KAYSERİ             ,                    ,0950,0950,   ,                    ,05.08.2015
+DD,TK ,2718 ,IĞDIR               ,                    ,0955,0955,   ,                    ,05.08.2015
+DD,SQ ,6282 ,ANKARA              ,                    ,1000,1000,   ,                    ,05.08.2015
+DD,TK ,2730 ,AĞRI                ,                    ,1000,1000,   ,                    ,05.08.2015
+DD,TK ,2318 ,İZMİR               ,                    ,1000,1000,   ,                    ,05.08.2015

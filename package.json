@@ -1,0 +1,12 @@
+{
+  "name": "airports-scraper",
+  "description": "scraping airports data from dhmi website",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "csv-parse": "^0.1.4",
+    "csv-stringify": "0.0.8",
+    "promise": "^7.0.4"
+  },
+  "devDependencies": {}
+}

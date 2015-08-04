@@ -1,0 +1,188 @@
+NODE TYPE,NODE NAME,EDGE TYPE,NODE TYPE,NODE NAME,Weight
+Airport,İstanbul Atatürk Havalimanı,HAS A FLIGHT TO,Airport,Diyarbakır Havalimanı,1
+Airport,İstanbul Atatürk Havalimanı,HAS A FLIGHT TO,Airport,Sivas Nuri Demirağ Havalimanı,1
+Airport,İstanbul Atatürk Havalimanı,HAS A FLIGHT TO,Airport,Adana Havalimanı,1
+Airport,İstanbul Atatürk Havalimanı,HAS A FLIGHT TO,Airport,İzmir Adnan Menderes Havalimanı,1
+Airport,İstanbul Atatürk Havalimanı,HAS A FLIGHT TO,Airport,Malatya Havalimanı,1
+Airport,İstanbul Atatürk Havalimanı,HAS A FLIGHT TO,Airport,Antalya Havalimanı,1
+Airport,İstanbul Atatürk Havalimanı,HAS A FLIGHT TO,Airport,Trabzon Havalimanı,1
+Airport,İstanbul Atatürk Havalimanı,HAS A FLIGHT TO,Airport,Elazığ Havalimanı,1
+Airport,İstanbul Atatürk Havalimanı,HAS A FLIGHT TO,Airport,Antalya Gazipaşa - Alanya Havalimanı,1
+Airport,İstanbul Atatürk Havalimanı,HAS A FLIGHT TO,Airport,Kayseri Havalimanı,1
+Airport,İstanbul Atatürk Havalimanı,HAS A FLIGHT TO,Airport,Muğla Milas - Bodrum Havalimanı,1
+Airport,İstanbul Atatürk Havalimanı,HAS A FLIGHT TO,Airport,Samsun Çarşamba Havalimanı,1
+Airport,İstanbul Atatürk Havalimanı,HAS A FLIGHT TO,Airport,Muğla Dalaman Havalimanı,1
+Airport,İstanbul Atatürk Havalimanı,HAS A FLIGHT TO,Airport,Konya Havalimanı,1
+Airport,İstanbul Atatürk Havalimanı,HAS A FLIGHT TO,Airport,Gaziantep Havalimanı,1
+Airport,İstanbul Atatürk Havalimanı,HAS A FLIGHT TO,Airport,Ankara Esenboğa Havalimanı,1
+Airport,İstanbul Atatürk Havalimanı,HAS A FLIGHT TO,Airport,Zafer Havalimanı,1
+Airport,İstanbul Atatürk Havalimanı,HAS A FLIGHT TO,Airport,Amasya Merzifon Havalimanı,1
+Airport,İstanbul Atatürk Havalimanı,HAS A FLIGHT TO,Airport,Hatay Havalimanı,1
+Airport,İstanbul Atatürk Havalimanı,HAS A FLIGHT TO,Airport,Denizli Çardak Havalimanı,1
+Airport,İstanbul Atatürk Havalimanı,HAS A FLIGHT TO,Airport,Van Ferit Melen Havalimanı,1
+Airport,İstanbul Atatürk Havalimanı,HAS A FLIGHT TO,Airport,Kahramanmaraş Havalimanı,1
+Airport,İstanbul Atatürk Havalimanı,HAS A FLIGHT TO,Airport,Şanlıurfa Gap Havalimanı,1
+Airport,İstanbul Atatürk Havalimanı,HAS A FLIGHT TO,Airport,Mardin Havalimanı,1
+Airport,İstanbul Atatürk Havalimanı,HAS A FLIGHT TO,Airport,Kapadokya Havalimanı,1
+Airport,İstanbul Atatürk Havalimanı,HAS A FLIGHT TO,Airport,Erzurum Havalimanı,1
+Airport,İstanbul Atatürk Havalimanı,HAS A FLIGHT TO,Airport,Hakkari Yüksekova Selahaddin Eyyubi Havalimanı,1
+Airport,İstanbul Atatürk Havalimanı,HAS A FLIGHT TO,Airport,Bingöl Havalimanı,1
+Airport,İstanbul Atatürk Havalimanı,HAS A FLIGHT TO,Airport,Sinop Havalimanı,1
+Airport,İstanbul Atatürk Havalimanı,HAS A FLIGHT TO,Airport,Iğdır Havalimanı,1
+Airport,İstanbul Atatürk Havalimanı,HAS A FLIGHT TO,Airport,Ağrı Ahmed-i Hani Havalimanı,1
+Airport,Kapadokya Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Atatürk Havalimanı,1
+Airport,Kapadokya Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Sabiha Gökçen Havalimanı,1
+Airport,Kapadokya Havalimanı,HAS A FLIGHT TO,Airport,Antalya Havalimanı,1
+Airport,Erzurum Havalimanı,HAS A FLIGHT TO,Airport,Ankara Esenboğa Havalimanı,1
+Airport,Erzurum Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Sabiha Gökçen Havalimanı,1
+Airport,Erzurum Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Atatürk Havalimanı,1
+Airport,Erzurum Havalimanı,HAS A FLIGHT TO,Airport,Bursa Yenişehir Havalimanı,1
+Airport,Gaziantep Havalimanı,HAS A FLIGHT TO,Airport,İzmir Adnan Menderes Havalimanı,1
+Airport,Gaziantep Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Sabiha Gökçen Havalimanı,1
+Airport,Gaziantep Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Atatürk Havalimanı,1
+Airport,Gaziantep Havalimanı,HAS A FLIGHT TO,Airport,Ankara Esenboğa Havalimanı,1
+Airport,Gaziantep Havalimanı,HAS A FLIGHT TO,Airport,Antalya Havalimanı,1
+Airport,Adıyaman Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Atatürk Havalimanı,1
+Airport,Adıyaman Havalimanı,HAS A FLIGHT TO,Airport,Ankara Esenboğa Havalimanı,1
+Airport,Amasya Merzifon Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Sabiha Gökçen Havalimanı,1
+Airport,Amasya Merzifon Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Atatürk Havalimanı,1
+Airport,Balıkesir Koca Seyit Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Sabiha Gökçen Havalimanı,1
+Airport,Balıkesir Koca Seyit Havalimanı,HAS A FLIGHT TO,Airport,Ankara Esenboğa Havalimanı,1
+Airport,Bursa Yenişehir Havalimanı,HAS A FLIGHT TO,Airport,Ankara Esenboğa Havalimanı,1
+Airport,Bursa Yenişehir Havalimanı,HAS A FLIGHT TO,Airport,Erzurum Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Sabiha Gökçen Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,Erzurum Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,Diyarbakır Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,Muğla Milas - Bodrum Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,Muğla Dalaman Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,Balıkesir Koca Seyit Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,İzmir Adnan Menderes Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,Gaziantep Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,Adana Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,Antalya Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,Samsun Çarşamba Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Atatürk Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,Trabzon Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,Elazığ Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,Malatya Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,Tekirdağ Çorlu Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,Antalya Gazipaşa - Alanya Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,Sivas Nuri Demirağ Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,Şanlıurfa Gap Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,Bursa Yenişehir Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,Siirt Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,Van Ferit Melen Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,Hakkari Yüksekova Selahaddin Eyyubi Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,Kars Harakani Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,Muş Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,Mardin Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,Ordu Giresun Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,Çanakkale Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,Erzincan Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,Kahramanmaraş Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,Ağrı Ahmed-i Hani Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,Iğdır Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,Şırnak Şerafettin Elçi Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,Adıyaman Havalimanı,1
+Airport,Ankara Esenboğa Havalimanı,HAS A FLIGHT TO,Airport,Hatay Havalimanı,1
+Airport,Denizli Çardak Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Sabiha Gökçen Havalimanı,1
+Airport,Denizli Çardak Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Atatürk Havalimanı,1
+Airport,Diyarbakır Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Sabiha Gökçen Havalimanı,1
+Airport,Diyarbakır Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Atatürk Havalimanı,1
+Airport,Diyarbakır Havalimanı,HAS A FLIGHT TO,Airport,İzmir Adnan Menderes Havalimanı,1
+Airport,Diyarbakır Havalimanı,HAS A FLIGHT TO,Airport,Ankara Esenboğa Havalimanı,1
+Airport,Diyarbakır Havalimanı,HAS A FLIGHT TO,Airport,Antalya Havalimanı,1
+Airport,Elazığ Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Atatürk Havalimanı,1
+Airport,Elazığ Havalimanı,HAS A FLIGHT TO,Airport,Ankara Esenboğa Havalimanı,1
+Airport,Elazığ Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Sabiha Gökçen Havalimanı,1
+Airport,Erzincan Havalimanı,HAS A FLIGHT TO,Airport,Ankara Esenboğa Havalimanı,1
+Airport,Erzincan Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Atatürk Havalimanı,1
+Airport,Erzincan Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Sabiha Gökçen Havalimanı,1
+Airport,Hatay Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Sabiha Gökçen Havalimanı,1
+Airport,Hatay Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Atatürk Havalimanı,1
+Airport,Hatay Havalimanı,HAS A FLIGHT TO,Airport,Ankara Esenboğa Havalimanı,1
+Airport,Kahramanmaraş Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Atatürk Havalimanı,1
+Airport,Kahramanmaraş Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Sabiha Gökçen Havalimanı,1
+Airport,Kahramanmaraş Havalimanı,HAS A FLIGHT TO,Airport,Ankara Esenboğa Havalimanı,1
+Airport,Kars Harakani Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Atatürk Havalimanı,1
+Airport,Kars Harakani Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Sabiha Gökçen Havalimanı,1
+Airport,Kars Harakani Havalimanı,HAS A FLIGHT TO,Airport,Ankara Esenboğa Havalimanı,1
+Airport,Kayseri Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Sabiha Gökçen Havalimanı,1
+Airport,Kayseri Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Atatürk Havalimanı,1
+Airport,Kayseri Havalimanı,HAS A FLIGHT TO,Airport,Antalya Havalimanı,1
+Airport,Konya Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Atatürk Havalimanı,1
+Airport,Konya Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Sabiha Gökçen Havalimanı,1
+Airport,Malatya Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Atatürk Havalimanı,1
+Airport,Malatya Havalimanı,HAS A FLIGHT TO,Airport,Ankara Esenboğa Havalimanı,1
+Airport,Malatya Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Sabiha Gökçen Havalimanı,1
+Airport,İzmir Adnan Menderes Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Sabiha Gökçen Havalimanı,1
+Airport,İzmir Adnan Menderes Havalimanı,HAS A FLIGHT TO,Airport,Gaziantep Havalimanı,1
+Airport,İzmir Adnan Menderes Havalimanı,HAS A FLIGHT TO,Airport,Diyarbakır Havalimanı,1
+Airport,İzmir Adnan Menderes Havalimanı,HAS A FLIGHT TO,Airport,Adana Havalimanı,1
+Airport,İzmir Adnan Menderes Havalimanı,HAS A FLIGHT TO,Airport,Ankara Esenboğa Havalimanı,1
+Airport,İzmir Adnan Menderes Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Atatürk Havalimanı,1
+Airport,İzmir Adnan Menderes Havalimanı,HAS A FLIGHT TO,Airport,Samsun Çarşamba Havalimanı,1
+Airport,İzmir Adnan Menderes Havalimanı,HAS A FLIGHT TO,Airport,Antalya Havalimanı,1
+Airport,İzmir Adnan Menderes Havalimanı,HAS A FLIGHT TO,Airport,Mardin Havalimanı,1
+Airport,İzmir Adnan Menderes Havalimanı,HAS A FLIGHT TO,Airport,Sivas Nuri Demirağ Havalimanı,1
+Airport,İzmir Adnan Menderes Havalimanı,HAS A FLIGHT TO,Airport,Kars Harakani Havalimanı,1
+Airport,İzmir Adnan Menderes Havalimanı,HAS A FLIGHT TO,Airport,Van Ferit Melen Havalimanı,1
+Airport,İzmir Adnan Menderes Havalimanı,HAS A FLIGHT TO,Airport,Trabzon Havalimanı,1
+Airport,İzmir Adnan Menderes Havalimanı,HAS A FLIGHT TO,Airport,Erzurum Havalimanı,1
+Airport,Mardin Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Sabiha Gökçen Havalimanı,1
+Airport,Mardin Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Atatürk Havalimanı,1
+Airport,Samsun Çarşamba Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Sabiha Gökçen Havalimanı,1
+Airport,Samsun Çarşamba Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Atatürk Havalimanı,1
+Airport,Samsun Çarşamba Havalimanı,HAS A FLIGHT TO,Airport,İzmir Adnan Menderes Havalimanı,1
+Airport,Samsun Çarşamba Havalimanı,HAS A FLIGHT TO,Airport,Ankara Esenboğa Havalimanı,1
+Airport,Sivas Nuri Demirağ Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Atatürk Havalimanı,1
+Airport,Sivas Nuri Demirağ Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Sabiha Gökçen Havalimanı,1
+Airport,Sivas Nuri Demirağ Havalimanı,HAS A FLIGHT TO,Airport,Ankara Esenboğa Havalimanı,1
+Airport,Sivas Nuri Demirağ Havalimanı,HAS A FLIGHT TO,Airport,İzmir Adnan Menderes Havalimanı,1
+Airport,Şanlıurfa Gap Havalimanı,HAS A FLIGHT TO,Airport,Ankara Esenboğa Havalimanı,1
+Airport,Şanlıurfa Gap Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Sabiha Gökçen Havalimanı,1
+Airport,Şanlıurfa Gap Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Atatürk Havalimanı,1
+Airport,Tekirdağ Çorlu Havalimanı,HAS A FLIGHT TO,Airport,Ankara Esenboğa Havalimanı,1
+Airport,Antalya Havalimanı,HAS A FLIGHT TO,Airport,Ankara Esenboğa Havalimanı,1
+Airport,Antalya Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Sabiha Gökçen Havalimanı,1
+Airport,Antalya Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Atatürk Havalimanı,1
+Airport,Antalya Havalimanı,HAS A FLIGHT TO,Airport,Kayseri Havalimanı,1
+Airport,Van Ferit Melen Havalimanı,HAS A FLIGHT TO,Airport,Ankara Esenboğa Havalimanı,1
+Airport,Van Ferit Melen Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Sabiha Gökçen Havalimanı,1
+Airport,Van Ferit Melen Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Atatürk Havalimanı,1
+Airport,Van Ferit Melen Havalimanı,HAS A FLIGHT TO,Airport,Adana Havalimanı,1
+Airport,Van Ferit Melen Havalimanı,HAS A FLIGHT TO,Airport,Antalya Havalimanı,1
+Airport,Van Ferit Melen Havalimanı,HAS A FLIGHT TO,Airport,İzmir Adnan Menderes Havalimanı,1
+Airport,Antalya Gazipaşa - Alanya Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Sabiha Gökçen Havalimanı,1
+Airport,Antalya Gazipaşa - Alanya Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Atatürk Havalimanı,1
+Airport,Antalya Gazipaşa - Alanya Havalimanı,HAS A FLIGHT TO,Airport,Ankara Esenboğa Havalimanı,1
+Airport,Kocaeli Cengiz Topel Havalimanı,HAS A FLIGHT TO,Airport,Trabzon Havalimanı,1
+Airport,Iğdır Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Atatürk Havalimanı,1
+Airport,Iğdır Havalimanı,HAS A FLIGHT TO,Airport,Ankara Esenboğa Havalimanı,1
+Airport,Bingöl Havalimanı,HAS A FLIGHT TO,Airport,Ankara Esenboğa Havalimanı,1
+Airport,Zafer Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Atatürk Havalimanı,1
+Airport,Kastamonu Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Atatürk Havalimanı,1
+Airport,Muğla Dalaman Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Sabiha Gökçen Havalimanı,1
+Airport,Muğla Dalaman Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Atatürk Havalimanı,1
+Airport,Muğla Dalaman Havalimanı,HAS A FLIGHT TO,Airport,Ankara Esenboğa Havalimanı,1
+Airport,Şırnak Şerafettin Elçi Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Sabiha Gökçen Havalimanı,1
+Airport,Şırnak Şerafettin Elçi Havalimanı,HAS A FLIGHT TO,Airport,Ankara Esenboğa Havalimanı,1
+Airport,Şırnak Şerafettin Elçi Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Atatürk Havalimanı,1
+Airport,Muğla Milas - Bodrum Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Atatürk Havalimanı,1
+Airport,Muğla Milas - Bodrum Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Sabiha Gökçen Havalimanı,1
+Airport,Muğla Milas - Bodrum Havalimanı,HAS A FLIGHT TO,Airport,Ankara Esenboğa Havalimanı,1
+Airport,Adana Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Sabiha Gökçen Havalimanı,1
+Airport,Adana Havalimanı,HAS A FLIGHT TO,Airport,İzmir Adnan Menderes Havalimanı,1
+Airport,Adana Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Atatürk Havalimanı,1
+Airport,Adana Havalimanı,HAS A FLIGHT TO,Airport,Antalya Havalimanı,1
+Airport,Adana Havalimanı,HAS A FLIGHT TO,Airport,Ankara Esenboğa Havalimanı,1
+Airport,Adana Havalimanı,HAS A FLIGHT TO,Airport,Muğla Milas - Bodrum Havalimanı,1
+Airport,Adana Havalimanı,HAS A FLIGHT TO,Airport,Van Ferit Melen Havalimanı,1
+Airport,Adana Havalimanı,HAS A FLIGHT TO,Airport,Trabzon Havalimanı,1
+Airport,Trabzon Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Sabiha Gökçen Havalimanı,1
+Airport,Trabzon Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Atatürk Havalimanı,1
+Airport,Trabzon Havalimanı,HAS A FLIGHT TO,Airport,Ankara Esenboğa Havalimanı,1
+Airport,Trabzon Havalimanı,HAS A FLIGHT TO,Airport,Kocaeli Cengiz Topel Havalimanı,1
+Airport,Trabzon Havalimanı,HAS A FLIGHT TO,Airport,Adana Havalimanı,1
+Airport,Trabzon Havalimanı,HAS A FLIGHT TO,Airport,İzmir Adnan Menderes Havalimanı,1
+Airport,Isparta Suleyman Demirel Havalimanı,HAS A FLIGHT TO,Airport,İstanbul Atatürk Havalimanı,1
